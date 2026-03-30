@@ -1,0 +1,86 @@
+account_id,account_name,sector,year_established,annual_revenue_usd_mn,employee_count,country,parent_account_name,account_tier,industry_code,is_active,created_at
+ACC001,Acme Corporation,technology,1996,1100,2822,United States,,Mid-Market,TECH,TRUE,03-08-2016
+ACC002,Betasoloin,medical,1999,251.41,495,United States,,SMB,HLTH,TRUE,19-10-2016
+ACC003,Betatech,medical,1986,647,1185,Kenya,,SMB,HLTH,TRUE,08-04-2016
+ACC004,Bioholding,medical,2012,587,1356,Philipines,,Mid-Market,HLTH,TRUE,20-06-2016
+ACC005,Bioplex,medical,1991,327,1016,United States,,Strategic,HLTH,TRUE,25-12-2016
+ACC006,Blackzim,retail,2009,497,1588,United States,,Strategic,RETL,TRUE,01-08-2016
+ACC007,Bluth Company,technology,1993,1242,3027,United States,Acme Corporation,Enterprise,TECH,TRUE,04-02-2016
+ACC008,Bubba Gump,software,2002,987,2253,United States,,SMB,OTHR,TRUE,14-08-2016
+ACC009,Cancity,retail,2001,719,2448,United States,,Mid-Market,RETL,TRUE,10-04-2016
+ACC010,Cheers,entertainment,1993,4270,6472,United States,Massive Dynamic,SMB,OTHR,TRUE,10-05-2016
+ACC011,Codehow,software,1998,2715,2641,United States,Acme Corporation,Enterprise,OTHR,TRUE,13-09-2016
+ACC012,Condax,medical,2017,5,9,United States,,SMB,HLTH,TRUE,05-01-2016
+ACC013,Conecom,technology,2005,1520.7,1806,United States,,SMB,TECH,TRUE,05-08-2016
+ACC014,Dalttechnology,software,2013,99,96,United States,Bubba Gump,Strategic,OTHR,TRUE,11-09-2016
+ACC015,dambase,marketing,1995,2174,2928,United States,Inity,Strategic,OTHR,TRUE,24-12-2016
+ACC016,Domzoom,entertainment,1998,217.87,551,United States,,Strategic,OTHR,TRUE,09-10-2016
+ACC017,Doncon,technology,2010,588,1501,United States,,Strategic,TECH,TRUE,25-07-2016
+ACC018,Donquadtech,technology,1992,1713,3194,United States,Acme Corporation,Mid-Market,TECH,TRUE,15-01-2016
+ACC019,Dontechi,software,1982,4618,10083,United States,,Mid-Market,OTHR,TRUE,11-12-2016
+ACC020,Donware,marketing,1999,1197.4,2570,United States,,Strategic,OTHR,TRUE,11-02-2016
+ACC021,Fasehatice,retail,1990,4969,7523,United States,,Mid-Market,RETL,TRUE,27-06-2016
+ACC022,Faxquote,telecommunications,1995,1826,5595,United States,Sonron,Enterprise,OTHR,TRUE,03-03-2016
+ACC023,Finhigh,finance,2006,1102.4,1759,United States,,Strategic,FINS,TRUE,17-12-2016
+ACC024,Finjob,employment,1988,2060,3644,United States,,Mid-Market,OTHR,TRUE,18-08-2016
+ACC025,Funholding,finance,1991,2820,7227,United States,Golddex,Mid-Market,FINS,TRUE,28-08-2016
+ACC026,Ganjaflex,retail,1995,5159,17479,Japan,,SMB,RETL,TRUE,21-02-2016
+ACC027,Gekko & Co,retail,1990,2521,3502,United States,,Strategic,RETL,TRUE,05-04-2016
+ACC028,Genco Pura Olive Oil Company,retail,2007,894.33,1635,Italy,,Mid-Market,RETL,TRUE,09-08-2016
+ACC029,Globex Corporation,technology,2000,1223.7,2497,Norway,,Mid-Market,TECH,TRUE,18-08-2016
+ACC030,Gogozoom,telecommunications,2007,87,187,United States,Sonron,Enterprise,OTHR,TRUE,24-08-2016
+ACC031,Golddex,finance,2008,52.5,165,United States,,Mid-Market,FINS,TRUE,22-05-2016
+ACC032,Goodsilron,marketing,2000,2953,5107,United States,,Strategic,OTHR,TRUE,19-06-2016
+ACC033,Green-Plus,services,2003,692.2,1922,United States,,Enterprise,OTHR,TRUE,29-01-2016
+ACC034,Groovestreet,retail,2003,224,299,United States,,SMB,RETL,TRUE,05-02-2016
+ACC035,Hatfan,services,1982,792.46,1299,United States,,SMB,OTHR,TRUE,13-01-2016
+ACC036,Hottechi,technology,1997,8170,16499,Korea,,SMB,TECH,TRUE,08-06-2016
+ACC037,Initech,telecommunications,1994,6395.1,20275,United States,,Strategic,OTHR,TRUE,22-11-2016
+ACC038,Inity,marketing,1986,2403.58,8801,United States,,Enterprise,OTHR,TRUE,05-07-2016
+ACC039,Isdom,medical,2002,3178,4540,United States,,Mid-Market,HLTH,TRUE,30-08-2016
+ACC040,Iselectrics,technology,2011,527.11,1428,United States,Acme Corporation,Mid-Market,TECH,TRUE,26-03-2016
+ACC041,J-Texon,retail,1989,1389,3583,United States,,Enterprise,RETL,TRUE,10-10-2016
+ACC042,Kan-code,software,1982,11698,34288,United States,,Mid-Market,OTHR,TRUE,06-03-2016
+ACC043,Kinnamplus,retail,2004,703,1831,United States,,Enterprise,RETL,TRUE,18-06-2016
+ACC044,Konex,technology,1980,7708,13756,United States,,SMB,TECH,TRUE,14-02-2016
+ACC045,Konmatfix,marketing,1985,375,1190,United States,,Strategic,OTHR,TRUE,02-03-2016
+ACC046,Labdrill,medical,1985,2741.4,9226,United States,,Mid-Market,HLTH,TRUE,13-05-2016
+ACC047,Lexiqvolax,medical,2004,1619,3889,United States,,Strategic,HLTH,TRUE,10-10-2016
+ACC048,Massive Dynamic,entertainment,1989,665.06,1095,United States,,Mid-Market,OTHR,TRUE,28-01-2016
+ACC049,Mathtouch,marketing,1984,3027,9516,Jordan,,Mid-Market,OTHR,TRUE,17-04-2016
+ACC050,Nam-zim,services,1987,406,1179,Brazil,Warephase,Strategic,OTHR,TRUE,13-02-2016
+ACC051,Newex,services,1991,1013,3492,Germany,,SMB,OTHR,TRUE,05-12-2016
+ACC052,Ontomedia,employment,1997,882,2769,United States,,SMB,OTHR,TRUE,12-10-2016
+ACC053,Opentech,finance,1994,355,853,United States,,SMB,FINS,TRUE,26-11-2016
+ACC054,Plexzap,retail,2001,2438,4874,United States,,SMB,RETL,TRUE,07-05-2016
+ACC055,Plusstrip,entertainment,2002,350,315,United States,,Mid-Market,OTHR,TRUE,13-12-2016
+ACC056,Plussunin,retail,2003,1420,4018,United States,,SMB,RETL,TRUE,18-08-2016
+ACC057,Rangreen,technology,1987,2939,8775,Panama,,Enterprise,TECH,TRUE,08-07-2016
+ACC058,Rantouch,telecommunications,1994,1188.4,3015,United States,,Strategic,OTHR,TRUE,12-08-2016
+ACC059,Ron-tech,medical,1992,3922,6837,United States,,Enterprise,HLTH,TRUE,09-10-2016
+ACC060,Rundofase,technology,1983,1008,1238,United States,,Strategic,TECH,TRUE,30-04-2016
+ACC061,Scotfind,software,1996,6355,16780,United States,Bubba Gump,Mid-Market,OTHR,TRUE,25-04-2016
+ACC062,Scottech,marketing,2012,45,100,United States,Inity,Strategic,OTHR,TRUE,20-08-2016
+ACC063,Silis,medical,1994,2818,6290,United States,,SMB,HLTH,TRUE,15-09-2016
+ACC064,Singletechno,retail,1996,2215,5374,United States,,Mid-Market,RETL,TRUE,24-12-2016
+ACC065,Sonron,telecommunications,1999,1699.85,5108,United States,,Strategic,OTHR,TRUE,16-07-2016
+ACC066,Stanredtax,finance,1987,1698,3798,United States,,Mid-Market,FINS,TRUE,16-05-2016
+ACC067,Statholdings,employment,1997,291.3,586,United States,,Enterprise,OTHR,TRUE,13-11-2016
+ACC068,Streethex,retail,1988,1377,1165,Belgium,,SMB,RETL,TRUE,13-06-2016
+ACC069,Sumace,retail,2000,168,493,Romania,,Enterprise,RETL,TRUE,12-08-2016
+ACC070,Sunnamplex,marketing,2008,894,1593,Poland,,SMB,OTHR,TRUE,02-11-2016
+ACC071,The New York Inquirer,medical,1996,439.2,792,United States,,SMB,HLTH,TRUE,21-08-2016
+ACC072,Toughzap,retail,1995,332,799,United States,,Strategic,RETL,TRUE,20-06-2016
+ACC073,Treequote,telecommunications,1988,5266.1,8595,United States,Sonron,Enterprise,OTHR,TRUE,31-05-2016
+ACC074,Umbrella Corporation,finance,1998,2022.1,5113,United States,,SMB,FINS,TRUE,10-11-2016
+ACC075,Vehement Capital Partners,finance,1993,646,883,United States,Golddex,SMB,FINS,TRUE,08-06-2016
+ACC076,Warephase,services,1997,2042,5276,United States,,SMB,OTHR,TRUE,05-04-2016
+ACC077,Xx-holding,finance,1993,7537.2,20293,United States,,SMB,FINS,TRUE,20-08-2016
+ACC078,Xx-zobam,entertainment,1989,3838,8274,United States,,Enterprise,OTHR,TRUE,28-06-2016
+ACC079,Y-corporation,employment,1983,2871,9561,United States,,Mid-Market,OTHR,TRUE,22-04-2016
+ACC080,Yearin,retail,2005,2261,3851,United States,,Enterprise,RETL,TRUE,13-11-2016
+ACC081,Zathunicon,retail,2010,71.12,144,United States,,SMB,RETL,TRUE,21-02-2016
+ACC082,Zencorporation,technology,2011,41,142,China,,Mid-Market,TECH,TRUE,24-09-2016
+ACC083,Zoomit,entertainment,1992,324.19,978,United States,,Strategic,OTHR,TRUE,21-10-2016
+ACC084,Zotware,software,1979,4478.5,13809,United States,,Enterprise,OTHR,TRUE,22-04-2016
+ACC085,Zumgoity,medical,1984,441,1210,United States,,Strategic,HLTH,TRUE,10-04-2016
