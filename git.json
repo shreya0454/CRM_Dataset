@@ -1,0 +1,42 @@
+[
+    {
+        "p_table_name": "CRM_ACCOUNTS_D",
+        "p_rel_url": "shreya0454/CRM_Dataset/refs/heads/main/CRM_ACCOUNTS_D.csv",
+        "p_sink_folder": "CRM_ACCOUNTS_D",
+        "p_sink_file": "CRM_ACCOUNTS_D.csv",
+        "p_load_type": "FULL",
+        "p_watermark_column": "modified_date"
+    },
+    {
+        "p_table_name": "CRM_CONTACTS_D",
+        "p_rel_url": "shreya0454/CRM_Dataset/refs/heads/main/CRM_CONTACTS_D.csv",
+        "p_sink_folder": "CRM_CONTACTS_D",
+        "p_sink_file": "CRM_CONTACTS_D.csv",
+        "p_load_type": "FULL",
+        "p_watermark_column": "modified_date"
+    },
+    {
+        "p_table_name": "CRM_PRODUCTS_D",
+        "p_rel_url": "shreya0454/CRM_Dataset/refs/heads/main/CRM_PRODUCTS_D.csv",
+        "p_sink_folder": "CRM_PRODUCTS_D",
+        "p_sink_file": "CRM_PRODUCTS_D.csv",
+        "p_load_type": "FULL",
+        "p_watermark_column": "modified_date"
+    },
+    {
+        "p_table_name": "CRM_SALES_PIPELINE_F",
+        "p_rel_url": "shreya0454/CRM_Dataset/refs/heads/main/CRM_SALES_PIPELINE_F.csv",
+        "p_sink_folder": "CRM_SALES_PIPELINE_F",
+        "p_sink_file": "CRM_SALES_PIPELINE_F.csv",
+        "p_load_type": "FULL",
+        "p_watermark_column": "modified_date"
+    },
+    {
+        "p_table_name": "CRM_SALES_TEAMS_D",
+        "p_rel_url": "shreya0454/CRM_Dataset/refs/heads/main/CRM_SALES_TEAMS_D.csv",
+        "p_sink_folder": "CRM_SALES_TEAMS_D",
+        "p_sink_file": "CRM_SALES_TEAMS_D.csv",
+        "p_load_type": "FULL",
+        "p_watermark_column": "modified_date"
+    }
+]
